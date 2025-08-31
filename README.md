@@ -38,7 +38,7 @@ Welcome to my repository showcasing the tasks completed during my internship at 
 
     .github/
         └── workflows/
-            └── gradle-build-for-tas3.yml ( CI/CD pipeline that automates the build process for Task 3 on every push. )
+            └── gradle-build-for-task3.yml ( CI/CD pipeline that automates the build process for Task 3 on every push. )
     
     task3/javaGradle2/
         ├── src/main/java/org/example/Hello.java   
