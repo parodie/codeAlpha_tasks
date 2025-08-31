@@ -43,10 +43,10 @@ Welcome to my repository showcasing the tasks completed during my internship at 
         ├── gradlew, gradlew.bat                                            
         └── README.md                                 
     
-    task4/
+    task4/docker-webserver/
         ├── Dockerfile                                
         ├── index.html                                
         ├── README.md                                 
-        └── screenshots/                              
+        └── screenshot1.png                              
 
 ---
