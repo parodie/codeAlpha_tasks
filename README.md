@@ -35,6 +35,10 @@ Welcome to my repository showcasing the tasks completed during my internship at 
 ## Repository Structure
 
     README.md: Overview of all projects, descriptions, and key features.
+
+    .github/
+        └── workflows/
+            └── radle-build-for-tas3.yml ( CI/CD pipeline that automates the build process for Task 3 on every push. )
     
     task3/javaGradle2/
         ├── src/main/java/org/example/Hello.java   
