@@ -4,7 +4,7 @@ Welcome to my repository showcasing the tasks completed during my internship at 
 
 ---
 
-## Task 3: Java Application using Gradle
+## Task 3: Automated build for a Java Application using Gradle 
 
     Description: Developed a Java console application automated using Gradle for building, dependency management, and execution. The app includes external libraries and is structured for CI/CD readiness.
     Language: Java
@@ -19,7 +19,7 @@ Welcome to my repository showcasing the tasks completed during my internship at 
 
 ---
 
-## Task 4: Web Server using Docker
+## Task 4: Deploying a Web Server using Docker
 
     Description: Deployed a lightweight Nginx web server inside a Docker container. Customized the homepage and managed the container lifecycle using Docker commands.
     Technology: Docker
